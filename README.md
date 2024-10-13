@@ -4,13 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Hello, I'm Sandro Buzhgulashvili, a passionate Front-end React Developer dedicated to creating web solutions that seamlessly combine great design with flawless functionality. My expertise lies in JavaScript and TypeScript, with a specialization in the React framework. I've successfully completed coding bootcamps, providing me with a solid foundation in Angular, Node.js, Express, and MongoDB, expanding my capabilities. As a quick learner, I thrive on adapting to emerging technologies and industry best practices. My collaborative approach involves working closely with clients to understand their needs, enabling me to deliver efficient, scalable, and user-friendly solutions. With a commitment to solving real-world problems, I bring innovation and a meticulous mindset to every project.
+I am a software developer with a background in Python and JavaScript/TypeScript. Having successfully completed numerous projects, I have gained a solid foundation in full-stack development, working with technologies such as React.js, Next.js, the MERN stack, Flask, and SQL. I have good experience with version control systems such as Git, and I can write GitHub Actions and simple workflows. I also have experience with WebSockets, both on the front-end and back-end. As an 18-year-old student, I am striving to learn more about computer science, master core algorithms and data structures on LeetCode, and gather professional experience through real-world projects.
 
 * 🌍  I'm based in Georiga,Tbilisi
 * 🖥️  See my portfolio at [portfolio](http://sandro-buzhgulashvili.web.app)
 * ✉️  You can contact me at [sbuzhghulashvili@gmail.com](mailto:sbuzhghulashvili@gmail.com)
-* 🚀  I'm currently working on [Food delivery app - EASY FEAST](http://github.com/sandro-buzhghulashvili/easy-feast)
-* 🧠  I'm learning NextJS,MERN stack and ThreeJS
+* 🚀  I'm currently working on [E-commerce web app - Cartify](http://github.com/sandro-buzhghulashvili/cartify)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
